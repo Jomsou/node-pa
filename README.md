@@ -17,4 +17,4 @@ npm install
 node example.js
 ```
 ## 效果
-[获取内容](https://github.com/Jomsou/node-pa/effect.png)
+![effect](https://user-images.githubusercontent.com/29729724/37077578-865a3a0e-2216-11e8-8323-71adbce87f15.png)
