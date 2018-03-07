@@ -17,3 +17,4 @@ npm install
 node example.js
 ```
 ## 效果
+[](https://github.com/Jomsou/node-pa/effect.png)
